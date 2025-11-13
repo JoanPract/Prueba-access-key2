@@ -1,8 +1,8 @@
 import boto3
 
 # Configura tus credenciales de AWS
-aws_access_key_id = 'AKIAR55OBMAJ3SP6Y7OW'
-aws_secret_access_key = '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'
+aws_access_key_id = 'AKIAR55OBMAJXLPTZBVO'
+aws_secret_access_key = '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'
 region_name = 'us-east-1'  
 
 # Nombre del bucket y archivo
